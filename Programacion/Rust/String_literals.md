@@ -1,0 +1,1 @@
+Un **String literal** es un **slice*.
